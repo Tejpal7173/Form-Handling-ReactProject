@@ -1,0 +1,15 @@
+.title{
+    max-width:  1000px;
+   /* padding-left: 40px; */
+   margin: 0 auto;
+}
+.title h1{
+    font-size: 48px;
+    font-weight: 800;
+    max-width: 80%;
+
+}
+.title p{
+    font-weight: 600;
+}
+

@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Poppins", serif;
+}
+.main-container{
+    display: flex;
+    flex-direction: column;
+    height: calc(100vh-72px);
+    justify-content: end;
+}

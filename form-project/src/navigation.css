@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 10px;
+    height: 72px;
+    border-bottom: 1px solid rgb(227, 224, 224);
+}
+img{
+    height: 40px;
+    width: 40px;
+}
+ul{
+    list-style: none;
+    display: flex;
+   font-weight: 600;
+    gap: 24px;
+}
